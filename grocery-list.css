@@ -1,0 +1,43 @@
+h1{
+   color: #2f672d; 
+   text-align: center;
+}
+h2{
+    color: olivedrab;
+    border-style: double;
+    background-color: rgb(217, 255, 197);
+    border-spacing: 10px;
+    width: 420px;
+    margin: 10px; 
+}
+
+section{
+background-color: mistyrose;
+color: #2f672d;
+border-style: hidden;
+margin: 10px;
+width: 200px;
+height: 150px;
+display: inline-block;
+}
+
+h3{
+    text-align: center;
+}
+
+#eating-cookie {
+border-style: none;
+scroll-padding-block-end: 20px;
+height: 150px;
+width: 200px;
+display: inherit;
+}
+
+#eating-veggies {
+    border-style: none;
+    scroll-padding-block-end: 20px;
+    height: 150px;
+    width: 200px;
+    display: inherit;
+    
+}
